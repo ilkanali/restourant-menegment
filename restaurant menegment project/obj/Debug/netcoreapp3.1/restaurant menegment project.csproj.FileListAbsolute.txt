@@ -1,0 +1,4 @@
+C:\Users\LENOVO\source\repos\restaurant menegment project\restaurant menegment project\obj\Debug\netcoreapp3.1\restaurant menegment project.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\restaurant menegment project\restaurant menegment project\obj\Debug\netcoreapp3.1\restaurant menegment project.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\restaurant menegment project\restaurant menegment project\obj\Debug\netcoreapp3.1\restaurant menegment project.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\restaurant menegment project\restaurant menegment project\obj\Debug\netcoreapp3.1\restaurant menegment project.csproj.CoreCompileInputs.cache
