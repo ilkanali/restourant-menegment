@@ -10,12 +10,10 @@ namespace restaurant_menegment_project
         public string MenuItem { get; set; }
         public double count { get; set; }
 
-        public OrderItem(string menuitem, double count);
+        public OrderItem(string menuitem,double count);
         {  
            this.Count = count;
-           this.MenuItem = MenuItem;
-        }
-        
+           this.MenuItem = MenuItem;      
 
     }
 }
